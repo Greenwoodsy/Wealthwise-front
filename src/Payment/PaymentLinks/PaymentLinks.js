@@ -28,7 +28,7 @@ const PaymentLinks = () => {
         <p className="depoPay">My Portfolio</p>
       </NavLink>
 
-      <NavLink to="/plans" className="paymentLinkItem">
+      <NavLink to="/investment-plans" className="paymentLinkItem">
         <p className="iconPay"><FaRegListAlt /></p>
         <p className="depoPay">Available Plans</p>
       </NavLink>
