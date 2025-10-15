@@ -54,14 +54,14 @@ const Footer = () => {
             </a>
           </p>
           <p>
-            Phone: <a href="tel:+13802397291">+1 (380) 239-7291</a>
+            Phone: <a href="tel:+13855967329">+1 (385) 596-7329</a>
           </p>
 
           <p>Address: Denver, CO, USA</p>
 
           <div className="footer-socials">
             <a
-              href="https://wa.me/13802397291"
+              href="https://wa.me/13855967329"
               target="_blank"
               rel="noopener noreferrer"
             >
