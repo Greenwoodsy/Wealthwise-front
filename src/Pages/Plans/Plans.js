@@ -5,9 +5,9 @@ import Footer from "../../components/Footer/Footer";
 
 const plansData = [
   {
-    title: "Starter Plan",
+    title: "Basic Plan",
     percent: "8",
-    price: "$20 - $100",
+    price: "$100 - $190",
     duration: "1-Day Duration",
     description:
       "An entry-level package for newcomers who want to experience investment returns with minimal risk.",
@@ -19,9 +19,9 @@ const plansData = [
     ],
   },
   {
-    title: "Beginner Plan",
+    title: "Standard Plan",
     percent: "10",
-    price: "$150 - $300",
+    price: "$200 - $290",
     duration: "1-Day Duration",
     description:
       "Perfect for beginners ready to grow their portfolio steadily with quick returns.",
@@ -33,9 +33,9 @@ const plansData = [
     ],
   },
   {
-    title: "Essential Plan",
+    title: "Premium Plan",
     percent: "15",
-    price: "$400 - $700",
+    price: "$300 - $390",
     duration: "1-Day Duration",
     description:
       "A balanced option for ambitious investors who want consistent returns without high exposure.",
@@ -47,9 +47,9 @@ const plansData = [
     ],
   },
   {
-    title: "Advanced Plan",
+    title: "Elite Plan",
     percent: "18",
-    price: "$800 - $1,200",
+    price: "$400 - $490",
     duration: "1-Day Duration",
     description:
       "Designed for experienced investors seeking premium returns and priority support.",
@@ -61,9 +61,9 @@ const plansData = [
     ],
   },
   {
-    title: "Premier Plan",
+    title: "Diamond Plan",
     percent: "23",
-    price: "$1,500 - $5,000",
+    price: "$500 - $600",
     duration: "1-Day Duration",
     description:
       "A high-value plan built for elite investors looking for maximum daily rewards and tailored services.",
@@ -77,7 +77,7 @@ const plansData = [
   {
     title: "Executive Plan",
     percent: "28",
-    price: "$6,000 - $10,000",
+    price: "$700 - $1000",
     duration: "2-Day Duration",
     description:
       "Premium package with top-level financial benefits, ideal for investors who want to grow wealth aggressively.",
@@ -86,20 +86,6 @@ const plansData = [
       "Personalized portfolio strategy",
       "Exclusive priority withdrawals",
       "Executive client benefits",
-    ],
-  },
-  {
-    title: "Enterprise Plan",
-    percent: "35",
-    price: "$15,000 - $25,000",
-    duration: "3-Day Duration",
-    description:
-      "Tailored for institutions and high-net-worth individuals looking for robust, short-term growth.",
-    benefits: [
-      "High-scale investment benefits",
-      "Dedicated wealth advisor",
-      "Custom investment opportunities",
-      "Private strategy sessions",
     ],
   },
 ];
